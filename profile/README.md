@@ -3,7 +3,7 @@
     <img
       alt="integer11 logo"
       height="70"
-      src="./img/i11n/logotype.svg"
+      src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/i11n/logotype.svg"
     />
   </a>
 </p>
@@ -28,7 +28,7 @@
 
 | Project | Links | Description |
 |---|---|---|
-| <img alt="partic11e logo" src="./img/p11/logotype.svg" height="20" style="vertical-align: bottom"/> | [GitHub][p11] &nbsp; [Docs][p11-docs] | collection of packages for the [Deno][deno] runtime. |
+| <img alt="partic11e logo" src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/p11/logotype.svg" height="20" style="vertical-align: bottom"/> | [GitHub][p11] &nbsp; [Docs][p11-docs] | collection of packages for the [Deno][deno] runtime. |
 
 [deno]: https://deno.land "Deno homepage"
 [i11n]: https://github.com/i11n "integer11 GitHub"
