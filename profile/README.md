@@ -3,7 +3,7 @@
     <img
       alt="integer11 logo"
       height="70"
-      src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/i11n/logotype.svg"
+      src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/logotype.svg"
     />
   </a>
 </p>
@@ -28,9 +28,9 @@
 
 | Project | Links | Description |
 |---|---|---|
-| <img alt="partic11e logo" src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/p11/logotype.svg" height="20" style="vertical-align: bottom"/> | [GitHub][p11] &nbsp; [Docs][p11-docs] | collection of packages for the [Deno][deno] runtime. |
+| <img alt="partic11e logo" src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/logotype.svg" height="20" style="vertical-align: bottom"/> | [GitHub][p11] &nbsp; [Docs][p11-docs] | collection of packages for the [Deno][deno] runtime. |
 
 [deno]: https://deno.land "Deno homepage"
-[i11n]: https://github.com/i11n "integer11 GitHub"
-[p11]: https://github.com/i11n/partic11e "partic11e library GitHub"
-[p11-docs]: https://docs.i11n.com/partic11e "partic11e library documentation"
+[i11n]: https://github.com/i11n "integer11 on GitHub"
+[p11]: https://github.com/partic11e "partic11e on GitHub"
+[p11-docs]: https://docs.i11n.com/partic11e "partic11e documentation"
