@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://integer11.org" title="integer11 website">
+  <a href="https://integereleven.com" title="integereleven website">
     <img
-      alt="integer11 logo"
+      alt="integereleven logo"
       height="70"
-      src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/logotype.svg"
+      src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/logotype-name.svg"
     />
   </a>
 </p>
 <p align="center">
-  <a href="https://integer11.org" title="integer11 website">Home</a> &nbsp; &nbsp;
-  <a href="https://docs.integer11.org" title="integer11 documentation">Docs</a>  &nbsp; &nbsp;
-  <a href="https://github.com/i11n" title="integer11 GitHub">GitHub</a>
+  <a href="https://integereleven.com" title="integereleven website">Home</a> &nbsp; &nbsp;
+  <a href="https://docs.integereleven.com" title="integereleven documentation">Docs</a>  &nbsp; &nbsp;
+  <a href="https://github.com/i11n" title="integereleven GitHub">GitHub</a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## About integer11
 
-[integer11][i11n] is an organization that helps transform business by:
+[integereleven][i11n] is an organization that helps transform business by:
 * identifying deficient technology investment
 * implementing effective solutions
 * providing flawless service
@@ -28,9 +28,11 @@
 
 | Project | Links | Description |
 |---|---|---|
-| <img alt="partic11e logo" src="https://raw.githubusercontent.com/partic11e/.github/main/profile/img/logotype.svg" height="20" style="vertical-align: bottom"/> | [GitHub][p11] &nbsp; [Docs][p11-docs] | collection of packages for the [Deno][deno] runtime. |
+<!-- >
+| <img alt="intv8 logo" src="https://raw.githubusercontent.com/intv8/.github/main/profile/img/logotype.svg" height="20" style="vertical-align: bottom"/> | [GitHub][p11] &nbsp; [Docs][p11-docs] | collection of packages for the [Deno][deno] runtime. |
+-->
 
 [deno]: https://deno.land "Deno homepage"
-[i11n]: https://github.com/i11n "integer11 on GitHub"
-[p11]: https://github.com/partic11e "partic11e on GitHub"
-[p11-docs]: https://docs.integer11.org/partic11e "partic11e documentation"
+[i11n]: https://github.com/i11n "integereleven on GitHub"
+[iv8]: https://github.com/intv8 "intv8 on GitHub"
+[iv8-docs]: https://docs.integereleven.com/intv8 "intv8 documentation"
