@@ -3,7 +3,7 @@
     <img
       alt="integereleven logo"
       height="70"
-      src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/logotype-name.svg"
+      src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/logotype-name.svg?color=red"
     />
   </a>
 </p>
