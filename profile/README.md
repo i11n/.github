@@ -3,7 +3,7 @@
     <img
       alt="integereleven logo"
       height="70"
-      src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/i11n/fc/text-stroke.svg"
+      src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/fc/text-stroke.svg"
     />
   </a>
 </p>
@@ -23,6 +23,13 @@
 * identifying deficient technology investment
 * implementing effective solutions
 * providing flawless service
+<p align="center">
+    <img
+      alt="integereleven logo"
+      height="70"
+      src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/fc/open.svg"
+    />
+</p>
 
 ## Open Source Projects
 
