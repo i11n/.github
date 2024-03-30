@@ -28,7 +28,7 @@
 
 | Project | Links | Description |
 |---|---|---|
-| <img alt="kz-io" src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/kz-io/kz-io.svg" height="20" style="vertical-align: bottom"/> | [GitHub][kz-io] &nbsp; [Docs][kz-io-docs] | collection of packages for the [Deno][deno] runtime. |
+| <img alt="kz-io" src="https://raw.githubusercontent.com/kz-io/.github/main/profile/img/fc/text.svg" height="20" style="vertical-align: bottom"/> | [GitHub][kz-io] &nbsp; [Docs][kz-io-docs] | collection of packages for the [Deno][deno] runtime. |
 
 
 [deno]: https://deno.land "Deno homepage"
