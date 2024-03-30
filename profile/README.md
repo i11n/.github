@@ -28,11 +28,10 @@
 
 | Project | Links | Description |
 |---|---|---|
-<!-- >
-| <img alt="intv8 logo" src="https://raw.githubusercontent.com/intv8/.github/main/profile/img/logotype.svg" height="20" style="vertical-align: bottom"/> | [GitHub][p11] &nbsp; [Docs][p11-docs] | collection of packages for the [Deno][deno] runtime. |
--->
+| <img alt="kz-io" src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/kz-io/kz-io.svg" height="20" style="vertical-align: bottom"/> | [GitHub][kz-io] &nbsp; [Docs][p11-docs] | collection of packages for the [Deno][deno] runtime. |
+
 
 [deno]: https://deno.land "Deno homepage"
 [i11n]: https://github.com/i11n "integereleven on GitHub"
-[iv8]: https://github.com/intv8 "intv8 on GitHub"
-[iv8-docs]: https://docs.integereleven.com/intv8 "intv8 documentation"
+[kz-io]: https://github.com/intv8 "kz-io on GitHub"
+[kz-io-docs]: https://docs.integereleven.com/kz-io "kz-io documentation"
