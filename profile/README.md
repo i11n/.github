@@ -3,7 +3,7 @@
     <img
       alt="integereleven logo"
       height="70"
-      src="https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/text-stroke.svg"
+      src="https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/text-soft.svg"
     />
   </a>
 </p>
@@ -27,7 +27,7 @@
     <img
       alt="integereleven logo"
       height="70"
-      src="https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/open-stroke.svg"
+      src="https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/open-source.svg"
     />
 </p>
 
@@ -35,7 +35,7 @@
 
 | Project | Links | Description |
 |---|---|---|
-| <img alt="kz" src="https://raw.githubusercontent.com/i11n/.github/main/svg/kz/color/kz.svg" height="20" style="vertical-align: bottom"/> | [Docs][kz-docs] | collection of packages for the [Deno][deno] runtime. |
+| <img alt="kz" src="https://raw.githubusercontent.com/i11n/.github/main/svg/kz/color/kz-bold.svg" height="20" style="vertical-align: bottom"/> | [Docs][kz-docs] | collection of packages for the [Deno][deno] runtime. |
 
 
 [deno]: https://deno.land "Deno homepage"

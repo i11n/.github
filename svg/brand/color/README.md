@@ -7,56 +7,68 @@
 
 ### Full text
 
-#### Filled
+#### Bold
 
-<img height="24" src="./text-fill.svg">
+<img height="24" src="./text-bold.svg">
 
-> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/text-fill.svg
+> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/text-bold.svg
 
-#### Stroke
+#### Soft
 
-<img height="24" src="./text-stroke.svg">
+<img height="24" src="./text-soft.svg">
 
-> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/text-stroke.svg
+> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/text-soft.svg
 
 ### i11n
 
-#### Filled
+#### Bold
 
-<img height="24" src="./i11n-fill.svg">
+<img height="24" src="./i11n-bold.svg">
 
-> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/i11n-fill.svg
+> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/i11n-bold.svg
 
-#### Stroke
+#### Soft
 
-<img height="24" src="./i11n-stroke.svg">
+<img height="24" src="./i11n-soft.svg">
 
-> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/i11n-stroke.svg
+> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/i11n-soft.svg
 
-### Trident
+### The "I"con
 
-#### Filled
+#### Bold
 
-<img height="24" src="./trident-fill.svg">
+<img height="24" src="./i-bold.svg">
 
-> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/trident-fill.svg
+> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/i-bold.svg
 
-#### Stroke
+#### Soft
 
-<img height="24" src="./trident-stroke.svg">
+<img height="24" src="./i-soft.svg">
 
-> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/trident-stroke.svg
+> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/i-soft.svg
 
-### Open Source
+### Ringed "I"con
 
-#### Filled
+#### Bold
 
-<img height="24" src="./open-fill.svg">
+<img height="24" src="./i-ring-bold.svg">
 
-> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/open-fill.svg
+> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/i-ring-bold.svg
 
-#### Stroke
+#### Soft
 
-<img height="24" src="./open-stroke.svg">
+<img height="24" src="./i-ring-soft.svg">
 
-> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/open-stroke.svg
+> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/i-ring-soft.svg
+
+#### Inset
+
+<img height="24" src="./i-inset.svg">
+
+> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/i-inset.svg
+
+### Open source
+
+<img height="24" src="./open-source.svg">
+
+> https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/open-source.svg
