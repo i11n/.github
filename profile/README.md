@@ -3,13 +3,13 @@
     <img
       alt="integereleven logo"
       height="70"
-      src="https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/text-soft.svg"
+      src="https://raw.githubusercontent.com/i11n/.github/main/img/brand/text-stroke-64.svg"
     />
   </a>
 </p>
 <p align="center">
   <a href="https://integereleven.com" title="integereleven website">Home</a> &nbsp; &nbsp;
-  <a href="https://docs.integereleven.com" title="integereleven documentation">Docs</a>  &nbsp; &nbsp;
+  <a href="https://docs.i11n.com" title="integereleven documentation">Docs</a>  &nbsp; &nbsp;
   <a href="https://github.com/i11n" title="integereleven GitHub">GitHub</a>
 </p>
 
@@ -27,7 +27,7 @@
     <img
       alt="integereleven logo"
       height="70"
-      src="https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/open-source.svg"
+      src="https://raw.githubusercontent.com/i11n/.github/main/img/os/os-256.svg"
     />
 </p>
 
@@ -35,9 +35,9 @@
 
 | Project | Links | Description |
 |---|---|---|
-| <img alt="kz" src="https://raw.githubusercontent.com/i11n/.github/main/svg/kz/color/kz-bold.svg" height="20" style="vertical-align: bottom"/> | [Docs][kz-docs] | collection of packages for the [Deno][deno] runtime. |
+| <img alt="kz" src="https://raw.githubusercontent.com/i11n/.github/main/img/kz/kz-256.svg" height="20" style="vertical-align: bottom"/> | [Docs][kz-docs] | collection of packages for the [Deno][deno] runtime. |
 
 
 [deno]: https://deno.land "Deno homepage"
 [i11n]: https://github.com/i11n "integereleven on GitHub"
-[kz-docs]: https://docs.integereleven.com/kz "kz documentation"
+[kz-docs]: https://docs.i11n.com/kz "kz documentation"
