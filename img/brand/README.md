@@ -111,3 +111,9 @@
 <img height="24" src="./text-outline-64.svg" />
 
 > https://raw.githubusercontent.com/i11n/.github/main/img/brand/text-outline-64.svg
+
+### Docs
+
+<img height="24" src="./docs-64.svg" />
+
+> https://raw.githubusercontent.com/i11n/.github/main/img/brand/docs-64.svg
