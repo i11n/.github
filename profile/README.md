@@ -35,7 +35,7 @@
 
 | Project | Links | Description |
 |---|---|---|
-| <img alt="kz" src="https://raw.githubusercontent.com/i11n/.github/main/img/kz/kz-256.svg" height="20" style="vertical-align: bottom"/> | [Docs][kz-docs] | collection of packages for the [Deno][deno] runtime. |
+| <img alt="kz" src="https://raw.githubusercontent.com/i11n/.github/main/img/kz/kz-64.svg" height="20" style="vertical-align: bottom"/> | [Docs][kz-docs] | collection of packages for the [Deno][deno] runtime. |
 
 
 [deno]: https://deno.land "Deno homepage"
