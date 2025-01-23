@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://integereleven.com" title="integereleven website">Home</a> &nbsp; &nbsp;
-  <a href="https://docs.i11n.com" title="integereleven documentation">Docs</a>  &nbsp; &nbsp;
+  <a href="https://docs.i11n.io" title="integereleven documentation">Docs</a>  &nbsp; &nbsp;
   <a href="https://github.com/i11n" title="integereleven GitHub">GitHub</a>
 </p>
 
