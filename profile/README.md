@@ -40,4 +40,4 @@
 
 [deno]: https://deno.land "Deno homepage"
 [i11n]: https://github.com/i11n "integereleven on GitHub"
-[kz-docs]: https://docs.i11n.com/kz "kz documentation"
+[kz-docs]: https://docs.i11n.io/kz "kz documentation"
