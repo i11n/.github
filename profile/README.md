@@ -23,14 +23,15 @@
 ## About integereleven
 
 [integereleven][i11n] is an organization that helps transform business by:
-* identifying deficient technology investment
-* implementing effective solutions
-* providing flawless service
+
+- identifying deficient technology investment
+- implementing effective solutions
+- providing flawless service
 
 ## Open Source Projects
 
-| Project | Links | Description |
-|---|---|---|
+| Project                                                                                                                                       | Links           | Description                                                                                                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="kz" src="https://docs.i11n.io/assets/img/logos/png/32/projects/kz/logo/stroked.v1.png" height="20" style="vertical-align: bottom"/> | [Docs][kz-docs] | kodzutsumi (小包) is a collection of heavily tested and documented easy-to-use utility and features with consistent and predictable APIs designed to simplify the development and maintenance of complex, performant, and scalable Deno applications. |
 
 <p align="center">
