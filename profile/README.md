@@ -1,4 +1,4 @@
-
+<!-- Copyright integereleven 2025 -->
 <p align="center">
   <a href="https://integereleven.com" title="integereleven website">
     <img
@@ -33,15 +33,12 @@
 |---|---|---|
 | <img alt="kz" src="https://docs.i11n.io/assets/img/logos/png/32/projects/kz/logo/stroked.v1.png" height="20" style="vertical-align: bottom"/> | [Docs][kz-docs] | kodzutsumi (小包) is a collection of heavily tested and documented easy-to-use utility and features with consistent and predictable APIs designed to simplify the development and maintenance of complex, performant, and scalable Deno applications. |
 
-
-
 <p align="center">
     <img
       alt="integereleven open source logo"
       src="https://docs.i11n.io/assets/img/logos/png/64/brand/os/logo.v1.png"
     />
 </p>
-
 
 [deno]: https://deno.com/ "Deno, the next-generation JavaScript runtime"
 [i11n]: https://github.com/i11n "GitHub: integereleven"
